@@ -100,7 +100,7 @@ body{
     color: hsl(0, 0%, 100%);
     background-color: hsl(0, 0%, 20%);
 
-    transition: 0.3s ease-out;
+    transition: 0.3s linear;
 
     font-weight: 700 ;
     
